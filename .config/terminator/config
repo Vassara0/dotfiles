@@ -11,6 +11,7 @@
     foreground_color = "#00ff00"
     show_titlebar = False
     scrollbar_position = hidden
+    custom_command = ~/.bashrc
     use_system_font = False
 [layouts]
   [[default]]
