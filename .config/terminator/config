@@ -1,0 +1,23 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.15
+    background_type = image
+    background_image = /home/vass/.config/wallpapers/arch-minimal-black.png
+    cursor_fg_color = "#000000"
+    cursor_bg_color = "#00ff00"
+    font = CaskaydiaCove Nerd Font Mono Semi-Bold 10
+    foreground_color = "#00ff00"
+    show_titlebar = False
+    scrollbar_position = hidden
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
