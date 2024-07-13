@@ -1,55 +1,54 @@
-arandr
-base
-base-devel
-bolt-launcher
-btrfs-progs
-discord
-dkms
-dmenu
-efibootmgr
-fastfetch
-feh
-firefox
-flameshot
-github-cli
-gst-plugin-pipewire
-htop
-i3-wm
-i3blocks
-i3lock
-i3status
-intel-ucode
-iwd
-jre-openjdk
-libpulse
-lxappearance
-man-db
-nano
-neovim
-picom
-pipewire
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-python-requests
-rofi
-rofi-greenclip
-smartmontool
-sof-firmware
-starship
+arandr -y
+base -y
+base-devel -y
+bolt-launcher -y
+btrfs-progs -y
+discord -y
+dkms -y
+dmenu -y
+efibootmgr -y
+fastfetch -y
+feh -y
+firefox -y
+flameshot -y
+github-cli -y
+gst-plugin-pipewire -y
+htop -y
+i3-wm -y
+i3blocks -y
+i3lock -y
+i3status -y
+intel-ucode -y
+iwd -y
+jre-openjdk -y
+libpulse -y
+lxappearance -y
+man-db -y
+nano -y
+neovim -y
+picom -y
+pipewire -y
+pipewire-alsa -y
+pipewire-jack -y
+pipewire-pulse -y
+python-requests -y
+rofi -y
+rofi-greenclip -y
+sof-firmware -y
+starship -y
+stow -y
+terminator -y
+thunar -y
+timeshift -y
+trash -y
+unzip -y
+vim -y
+wget -y
+wireless_tools -y
+wireplumber -y
+xorg-xinit -y
+xterm -y
+zip -y
+zoxide -y
+zram-generator -y
 steam
-stow
-terminator
-thunar
-timeshift
-trash
-unzip
-vim
-wget
-wireless_tools
-wireplumber
-xorg-xinit
-xterm
-zip
-zoxide
-zram-generator
